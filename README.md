@@ -9,16 +9,15 @@
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Download the release.zip!
+1. Download the release.zip!
    ```sh
    START The .exe on a direcotry on your server.
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    Open The Folder Config in it is a file with config.json
    ```
-4. Enter your Date `config.js`
+3. Enter your Date `config.js`
    ```Json {"DataBaseIP": "127.0.0.1", "DataBaseName": "ZombieLogger","DataBaseUsername": "root", "DataBasePassword": "", "ServerProfilePath": "" } ```
 
 
