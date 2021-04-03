@@ -19,15 +19,7 @@
    Open The Folder Config in it is a file with config.json
    ```
 4. Enter your Date `config.js`
-   ```Json
-{
-  "DataBaseIP": "127.0.0.1",
-  "DataBaseName": "ZombieLogger",
-  "DataBaseUsername": "root",
-  "DataBasePassword": "",
-  "ServerProfilePath": ""
-}
-   ```
+   ```Json {"DataBaseIP": "127.0.0.1", "DataBaseName": "ZombieLogger","DataBaseUsername": "root", "DataBasePassword": "", "ServerProfilePath": "" } ```
 
 
 
