@@ -40,5 +40,5 @@ License: ADPL
 ## Contact
 krypton1@gmx.at
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Krypton91/ZombieLogger)
 
